@@ -1,0 +1,60 @@
+C:\Users\figue\OneDrive\Área de Trabalho\T_RENTAL\T_RENTAL\T_RENTAL\obj\Debug\net5.0\T_RENTAL.csproj.AssemblyReference.cache
+C:\Users\figue\OneDrive\Área de Trabalho\T_RENTAL\T_RENTAL\T_RENTAL\obj\Debug\net5.0\T_RENTAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\figue\OneDrive\Área de Trabalho\T_RENTAL\T_RENTAL\T_RENTAL\obj\Debug\net5.0\T_RENTAL.AssemblyInfoInputs.cache
+C:\Users\figue\OneDrive\Área de Trabalho\T_RENTAL\T_RENTAL\T_RENTAL\obj\Debug\net5.0\T_RENTAL.AssemblyInfo.cs
+C:\Users\figue\OneDrive\Área de Trabalho\T_RENTAL\T_RENTAL\T_RENTAL\obj\Debug\net5.0\T_RENTAL.csproj.CoreCompileInputs.cache
+C:\Users\figue\OneDrive\Área de Trabalho\T_RENTAL\T_RENTAL\T_RENTAL\obj\Debug\net5.0\T_RENTAL.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fic\Desktop\T_RENTAL\T_RENTAL\T_RENTAL\obj\Debug\net5.0\T_RENTAL.csproj.AssemblyReference.cache
+C:\Users\fic\Desktop\T_RENTAL\T_RENTAL\T_RENTAL\obj\Debug\net5.0\T_RENTAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fic\Desktop\T_RENTAL\T_RENTAL\T_RENTAL\obj\Debug\net5.0\T_RENTAL.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\T_RENTAL\T_RENTAL\T_RENTAL\obj\Debug\net5.0\T_RENTAL.AssemblyInfo.cs
+C:\Users\fic\Desktop\T_RENTAL\T_RENTAL\T_RENTAL\obj\Debug\net5.0\T_RENTAL.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\T_RENTAL\T_RENTAL\T_RENTAL\obj\Debug\net5.0\T_RENTAL.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fic\Desktop\T_RENTAL\T_RENTAL\T_RENTAL\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\fic\Desktop\T_RENTAL\T_RENTAL\T_RENTAL\bin\Debug\net5.0\appsettings.json
+C:\Users\fic\Desktop\T_RENTAL\T_RENTAL\T_RENTAL\bin\Debug\net5.0\T_RENTAL.exe
+C:\Users\fic\Desktop\T_RENTAL\T_RENTAL\T_RENTAL\bin\Debug\net5.0\T_RENTAL.deps.json
+C:\Users\fic\Desktop\T_RENTAL\T_RENTAL\T_RENTAL\bin\Debug\net5.0\T_RENTAL.runtimeconfig.json
+C:\Users\fic\Desktop\T_RENTAL\T_RENTAL\T_RENTAL\bin\Debug\net5.0\T_RENTAL.runtimeconfig.dev.json
+C:\Users\fic\Desktop\T_RENTAL\T_RENTAL\T_RENTAL\bin\Debug\net5.0\T_RENTAL.dll
+C:\Users\fic\Desktop\T_RENTAL\T_RENTAL\T_RENTAL\bin\Debug\net5.0\ref\T_RENTAL.dll
+C:\Users\fic\Desktop\T_RENTAL\T_RENTAL\T_RENTAL\bin\Debug\net5.0\T_RENTAL.pdb
+C:\Users\fic\Desktop\T_RENTAL\T_RENTAL\T_RENTAL\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\fic\Desktop\T_RENTAL\T_RENTAL\T_RENTAL\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\fic\Desktop\T_RENTAL\T_RENTAL\T_RENTAL\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\fic\Desktop\T_RENTAL\T_RENTAL\T_RENTAL\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\fic\Desktop\T_RENTAL\T_RENTAL\T_RENTAL\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\fic\Desktop\T_RENTAL\T_RENTAL\T_RENTAL\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\fic\Desktop\T_RENTAL\T_RENTAL\T_RENTAL\obj\Debug\net5.0\staticwebassets\T_RENTAL.StaticWebAssets.Manifest.cache
+C:\Users\fic\Desktop\T_RENTAL\T_RENTAL\T_RENTAL\obj\Debug\net5.0\staticwebassets\T_RENTAL.StaticWebAssets.xml
+C:\Users\fic\Desktop\T_RENTAL\T_RENTAL\T_RENTAL\obj\Debug\net5.0\scopedcss\bundle\T_RENTAL.styles.css
+C:\Users\fic\Desktop\T_RENTAL\T_RENTAL\T_RENTAL\obj\Debug\net5.0\T_RENTAL.RazorTargetAssemblyInfo.cache
+C:\Users\fic\Desktop\T_RENTAL\T_RENTAL\T_RENTAL\obj\Debug\net5.0\T_RENTAL.csproj.CopyComplete
+C:\Users\fic\Desktop\T_RENTAL\T_RENTAL\T_RENTAL\obj\Debug\net5.0\T_RENTAL.dll
+C:\Users\fic\Desktop\T_RENTAL\T_RENTAL\T_RENTAL\obj\Debug\net5.0\ref\T_RENTAL.dll
+C:\Users\fic\Desktop\T_RENTAL\T_RENTAL\T_RENTAL\obj\Debug\net5.0\T_RENTAL.pdb
+C:\Users\fic\Desktop\T_RENTAL\T_RENTAL\T_RENTAL\obj\Debug\net5.0\T_RENTAL.genruntimeconfig.cache
+C:\Users\figue\OneDrive\Área de Trabalho\T_RENTAL\T_RENTAL\T_RENTAL\obj\Debug\net5.0\T_RENTAL.dll
+C:\Users\figue\OneDrive\Área de Trabalho\T_RENTAL\T_RENTAL\T_RENTAL\obj\Debug\net5.0\ref\T_RENTAL.dll
+C:\Users\figue\OneDrive\Área de Trabalho\T_RENTAL\T_RENTAL\T_RENTAL\obj\Debug\net5.0\T_RENTAL.pdb
+C:\Users\figue\OneDrive\Área de Trabalho\T_RENTAL\T_RENTAL\T_RENTAL\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\figue\OneDrive\Área de Trabalho\T_RENTAL\T_RENTAL\T_RENTAL\bin\Debug\net5.0\appsettings.json
+C:\Users\figue\OneDrive\Área de Trabalho\T_RENTAL\T_RENTAL\T_RENTAL\bin\Debug\net5.0\T_RENTAL.exe
+C:\Users\figue\OneDrive\Área de Trabalho\T_RENTAL\T_RENTAL\T_RENTAL\bin\Debug\net5.0\T_RENTAL.deps.json
+C:\Users\figue\OneDrive\Área de Trabalho\T_RENTAL\T_RENTAL\T_RENTAL\bin\Debug\net5.0\T_RENTAL.runtimeconfig.json
+C:\Users\figue\OneDrive\Área de Trabalho\T_RENTAL\T_RENTAL\T_RENTAL\bin\Debug\net5.0\T_RENTAL.runtimeconfig.dev.json
+C:\Users\figue\OneDrive\Área de Trabalho\T_RENTAL\T_RENTAL\T_RENTAL\bin\Debug\net5.0\T_RENTAL.dll
+C:\Users\figue\OneDrive\Área de Trabalho\T_RENTAL\T_RENTAL\T_RENTAL\bin\Debug\net5.0\ref\T_RENTAL.dll
+C:\Users\figue\OneDrive\Área de Trabalho\T_RENTAL\T_RENTAL\T_RENTAL\bin\Debug\net5.0\T_RENTAL.pdb
+C:\Users\figue\OneDrive\Área de Trabalho\T_RENTAL\T_RENTAL\T_RENTAL\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\figue\OneDrive\Área de Trabalho\T_RENTAL\T_RENTAL\T_RENTAL\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\figue\OneDrive\Área de Trabalho\T_RENTAL\T_RENTAL\T_RENTAL\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\figue\OneDrive\Área de Trabalho\T_RENTAL\T_RENTAL\T_RENTAL\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\figue\OneDrive\Área de Trabalho\T_RENTAL\T_RENTAL\T_RENTAL\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\figue\OneDrive\Área de Trabalho\T_RENTAL\T_RENTAL\T_RENTAL\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\figue\OneDrive\Área de Trabalho\T_RENTAL\T_RENTAL\T_RENTAL\obj\Debug\net5.0\staticwebassets\T_RENTAL.StaticWebAssets.Manifest.cache
+C:\Users\figue\OneDrive\Área de Trabalho\T_RENTAL\T_RENTAL\T_RENTAL\obj\Debug\net5.0\staticwebassets\T_RENTAL.StaticWebAssets.xml
+C:\Users\figue\OneDrive\Área de Trabalho\T_RENTAL\T_RENTAL\T_RENTAL\obj\Debug\net5.0\scopedcss\bundle\T_RENTAL.styles.css
+C:\Users\figue\OneDrive\Área de Trabalho\T_RENTAL\T_RENTAL\T_RENTAL\obj\Debug\net5.0\T_RENTAL.RazorTargetAssemblyInfo.cache
+C:\Users\figue\OneDrive\Área de Trabalho\T_RENTAL\T_RENTAL\T_RENTAL\obj\Debug\net5.0\T_RENTAL.csproj.CopyComplete
+C:\Users\figue\OneDrive\Área de Trabalho\T_RENTAL\T_RENTAL\T_RENTAL\obj\Debug\net5.0\T_RENTAL.genruntimeconfig.cache
