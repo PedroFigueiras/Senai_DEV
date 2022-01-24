@@ -1,0 +1,116 @@
+
+
+* {
+    margin: 0%;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url(../SP/imagens/fundo.png);
+    display: flex;
+    justify-content: center;
+    background-size: cover;
+
+    
+}
+
+main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.quadro_azul{
+
+    background: #187D99;
+    /* filter: blur(4px); */
+    width: 420px;
+    height: 580px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+   
+    
+}
+
+.divisao{
+
+    display: flex;
+    margin-top: 80px;
+    margin-left: 116px;
+    justify-content: center;
+}
+
+.h1{
+    MARGIN: 7PX 194px;
+    color: white;
+}
+
+h3{
+    color: white;
+}
+
+.img{
+    height: 580px;
+}
+
+.sp{
+
+    height: 18px;
+    margin-left: 1200px;
+    margin-top: 65px;
+}
+
+.brlogin{
+
+    width: 136px;
+    height: 53px;
+    background-color: white;
+    MARGIN: 65px 156px;
+    border-radius: 80px;
+}
+
+input{
+
+    width: 309px;
+    height: 25px;
+}
+
+/* ----------------------------------------------------------------- */
+                      /* Tela de Cadastro */
+
+.clogo{
+
+    margin: 0px 0px 0px 1327px;
+    height:  80px;
+}
+
+.divisaoc{
+
+    display: flex;
+
+    margin-left: 116px;
+
+}
+
+.quadro_azulc{
+
+    background: #187D99;
+    /* filter: blur(4px); */
+    width: 420px;
+    height: 580px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.h4{
+
+    color: white;
+    margin-bottom: 5px;
+
+}
