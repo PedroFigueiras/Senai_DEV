@@ -1,0 +1,121 @@
+CREATE DATABASE SP
+GO 
+
+USE SP
+GO
+
+
+/*
+   PRIMARY KEY = CHAVE PRIMARIA
+   FOREIGN KEY = CHAVE ESTRANGEIRA
+   IDENTITY = Define que o campo será auto-incrementado e único.
+   NOT NULL = Define que não pode ser nulo, ou seja, obrigatório.
+   UNIQUE = Define que o valor do campo é unico, ou seja, não repete.
+   DEFAULT = Define um valor padrão, caso nenhum seja informado.
+   GO = Pausa a leitura e executa o bloco de código acima.
+*/
+
+
+--- TIPOUSUARIO
+
+CREATE TABLE TIPO_USUARIO (
+  idTipoUsuario SMALLINT PRIMARY KEY IDENTITY,
+  NomeTipo VARCHAR(30) NOT NULL
+);
+GO
+
+-- CLINICA
+
+CREATE TABLE CLINICA(
+idClinica SMALLINT PRIMARY KEY IDENTITY,
+NomeClinica VARCHAR(100) NOT NULL,
+CNPJ VARCHAR(19) NOT NULL,
+RazaoSocial VARCHAR(100) NOT NULL,
+Endereco VARCHAR(250) NOT NULL
+);
+GO
+
+
+-- ESPECIALIDADE
+
+CREATE TABLE ESPECIALIDADE (
+  idEspecialidade SMALLINT PRIMARY KEY IDENTITY,
+  NomeEspecialidade VARCHAR(100) NOT NULL
+);
+GO
+
+-- SITUACAO
+
+CREATE TABLE SITUACAO (
+  idSituacao SMALLINT PRIMARY KEY IDENTITY,
+  TipoSituacao VARCHAR(30) NOT NULL
+);
+GO
+
+
+-- USUARIO
+
+CREATE TABLE USUARIO(
+  idUsuario INT PRIMARY KEY IDENTITY,
+  idTipoUsuario SMALLINT FOREIGN KEY REFERENCES TIPO_USUARIO(idTipoUsuario),
+  email VARCHAR(256) UNIQUE NOT NULL,
+  senha VARCHAR(10) NOT NULL CHECK( len(senha) >= 8) -->REGRA PARA COLOCAR APENAS 8. LEN PEGA O TAMANHO.
+
+);
+GO
+
+
+
+-- MEDICO
+
+CREATE TABLE MEDICO(
+  idMedico SMALLINT PRIMARY KEY IDENTITY,
+  idEspecialidade SMALLINT FOREIGN KEY REFERENCES ESPECIALIDADE (idEspecialidade),
+  idClinica SMALLINT FOREIGN KEY REFERENCES CLINICA (idClinica),
+  idUsuario INT FOREIGN KEY REFERENCES USUARIO(idUsuario),
+  CRM VARCHAR(15) UNIQUE NOT NULL,
+  NomeMedico VARCHAR(60) NOT NULL 
+);
+GO
+
+-- PACIENTE
+
+CREATE TABLE PACIENTE(
+  idPaciente SMALLINT PRIMARY KEY IDENTITY,
+  idUsuario INT FOREIGN KEY REFERENCES USUARIO(idUsuario),
+  NomePaciente VARCHAR(60) NOT NULL ,
+  DataNascimento DATE NOT NULL,
+  Telefone VARCHAR (25),
+  RG VARCHAR (25) UNIQUE NOT NULL,
+  CPF VARCHAR (25) UNIQUE NOT NULL,
+  Endereco VARCHAR (1000)  NOT NULL,
+);
+GO
+
+
+
+
+
+CREATE TABLE CONSULTA(
+  idConsulta SMALLINT PRIMARY KEY IDENTITY,
+  idUsuario INT FOREIGN KEY REFERENCES USUARIO (idUsuario),
+  idMedico SMALLINT FOREIGN KEY REFERENCES MEDICO (idMedico),
+  idPaciente SMALLINT FOREIGN KEY REFERENCES PACIENTE (idPaciente),
+  idSituacao SMALLINT FOREIGN KEY REFERENCES SITUACAO (idSituacao),
+  data_hora DATETIME NOT NULL ,
+  descricao VARCHAR (500) ,
+);
+GO
+
+
+
+
+
+
+
+
+
+
+
+
+DROP DATABASE SP

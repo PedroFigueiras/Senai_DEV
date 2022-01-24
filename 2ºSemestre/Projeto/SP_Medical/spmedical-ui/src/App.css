@@ -1,0 +1,439 @@
+* {
+  margin: 0%;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* @media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+} */
+
+.sairr{
+
+  margin-right: 1400px;
+  margin-top: 20px;
+
+}
+.sairc{
+
+  margin-right: 1400px;
+  padding: 10px;
+
+}
+.separacao{
+
+  margin-left: 50px;
+  margin-top: 50px;
+  
+}
+
+.btnc {
+
+  margin-top: 52px;
+  border: none;
+  color: white;
+  border-radius: 5px ;
+  width: 100%;
+  padding: 10px 52px ;
+  text-transform: uppercase;
+
+  background-color: #3582ff;
+  
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  font-size: 10px;
+
+}
+
+.App {
+
+  display: flex;
+  justify-content: center;
+  background-size: cover;
+
+  background-image: url('../src/assets/img/fundo.png');
+  background-repeat: no-repeat;
+  height: 100%;
+  width: 100%;
+}
+
+.App2 {
+
+  display: flex;
+  justify-content: center;
+  background-size: cover;
+
+  background-image: url('../src/assets/img/fundo2.png');
+  background-repeat: no-repeat;
+  height: 100%;
+  width: 100%;
+}
+
+.App3 {
+
+  justify-content: center;
+  background-size: cover;
+
+  background-image: url('../src/assets/img/fundo2.png');
+  background-repeat: no-repeat;
+  height: 100%;
+  width: 100%;
+}
+
+.App-header{
+
+  display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.label{
+
+  margin-left: 80px;
+  color: aliceblue;
+  font-weight: 700;
+
+}
+
+.quadro_azul{
+
+  background: #187D99;
+  /* filter: blur(4px); */
+  width: 420px;
+  height: 580px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+ 
+}
+
+.divisao{
+
+  display: flex;
+  margin-top: 80px;
+  margin-left: 116px;
+  justify-content: center;
+}
+
+.h1{
+  MARGIN: 7PX 194px;
+  color: white;
+}
+
+h3{
+  color: white;
+}
+
+.img{
+  height: 580px;
+  margin-bottom: 100px;
+}
+
+.sp{
+
+  height: 18px;
+  margin-left: 1200px;
+  margin-top: 65px;
+}
+
+.brlogin{
+
+  width: 136px;
+  height: 53px;
+  background-color: white;
+  MARGIN: 65px 156px;
+  border-radius: 80px;
+}
+
+.brlogiC{
+
+  width: 136px;
+  height: 53px;
+  background-color: white;
+ margin-left: 1300px;
+  border-radius: 80px;
+}
+
+.brloginc{
+
+  width: 136px;
+  height: 53px;
+  background-color: white;
+margin-left: 280px;
+  border-radius: 80px;
+}
+
+input{
+
+  margin-left: 64px;
+  margin-bottom: 15px;
+  margin-top: 10px;
+  width: 309px;
+  height: 25px;
+  display: flex;
+}
+
+/* @keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */
+
+/* ----------------------------------------------------------------- */
+                      /* Tela de Cadastro */
+
+
+                      .paci{
+
+                        margin: 50px;
+                        border-radius: 7px;
+
+                      }
+
+                      .list{
+
+                        background-color: blue;
+
+                      }
+
+                      .btn-c {
+                        border: none;
+                        color: white;
+                        border-radius: 5px ;
+                        width: 100%;
+                        padding: 10px 52px ;
+                        text-transform: uppercase;
+
+                        background-color: #3582ff;
+                        margin-left: 70px;
+                
+                        
+                  }
+
+
+                      .clogo{
+
+                        margin: 0px 0px 0px 1327px;
+                        height:  80px;
+                    }
+                    
+                    .divisaoc{
+                    
+                        display: flex;
+                    
+                        margin-left: 116px;
+                    
+                    }
+                    
+                    .quadro_azulc{
+                    
+                        background: #187D99;
+                        /* filter: blur(4px); */
+                        width: 420px;
+                        height: 580px;
+                        display: flex;
+                        flex-direction: column;
+                        align-items: center;
+                    
+                    }
+
+                    a {
+                      text-decoration: none;
+                      margin-top: 0px;
+                      margin-right: 25px  ;
+                        margin-left: 27px;
+                    }
+                    
+                    .h4{
+                    
+                        color: white;
+                        margin-bottom: 5px;
+                    
+                    }
+                    
+                    .cadastrar{
+                    
+                        color: white;
+                        margin-top: 50px;
+                        margin-bottom: 40px;
+                    
+                    }
+                    
+                    .CFINAL{
+                    
+                        font-size: 16px;
+                        color: black;
+                    
+                    }
+
+                    .btn-cadastro-c{
+                      display: flex;
+                        flex-direction: column;
+                        flex-wrap: wrap;
+                        align-content: center;
+                        margin-top: 22px;
+                      }
+                    /* ------------------------- Listar Consultas ---------------- */
+                    
+                    
+                    .LARANJAO{
+                    
+                        width: 680px;
+                        height: 100%;
+                        background-color: tomato;
+                        margin-left: 115px;
+                        margin-bottom: 500px;
+                    
+                    
+                    }
+                    
+                    .quadroazullC{
+                    
+                        background: #187D99;
+                        /* filter: blur(4px); */
+                        width: 680px;
+                        height: 100px;
+                        display: flex;
+                        align-items: center;
+                        flex-direction: column;
+                    
+                    }
+                    
+                    .cadastrarl{
+                    
+                    
+                        color: white;
+                        margin-top: 26px;
+                    
+                    }
+                    
+                    .spl{
+                    
+                        height: 18px;
+                        margin-left: 1200px;
+                        margin-top: 45px;
+                    
+                    }
+                    
+                    .brancao{
+                    
+                        width: 642px;
+                        height:200px;
+                        background-color: white;
+                        margin-left: 21px;
+                        margin-top: 17px;
+                        margin-bottom: 50px;
+                        padding-left: 110px;
+                        /* padding-top: 1px;
+                        padding-bottom: 4px; */
+
+                        
+                    
+                    }
+                    
+                    
+                    
+                  
+                    .div-btn-c{
+                      display: flex;
+                      flex-direction: column;
+                      justify-content: center;
+                      align-items: center;
+                      height: 0px;
+                      width: 92%;
+                      margin-left: 50px;
+                    }
+                    
+
+                    
+                    .formulario-c {
+                      background-color: orange;
+                      display: flex;
+                      justify-content: center;
+                      flex-direction: row;
+                      height: 500px;
+                      width: 680px;
+                      margin-bottom: 200px;
+
+                    
+                    }
+                    
+                    .formulario-c form{
+                    display: flex;
+                      flex-direction: column;
+                      width: 77%;
+                    
+                    }
+                    
+                    .formulario-c input{
+                        
+                        border-style: solid;
+                        border-bottom-width: 3px ;
+                        border-top-width: 0;
+                        border-right-width: 1;
+                        border-left-width: 0;
+                        border-bottom-width:3;
+                        background-color: transparent;
+                        color: white;
+                        margin-right: 20px;
+                        padding: 16px;
+
+                    }
+                    
+                    
+                    .formulario-c input:hover,.formulario-c input:focus {
+                    border: 0;
+                    border-bottom: 3px solid #0d00fe;
+                    text-align: center;
+                    background: transparent;
+                    color: #595959;
+                    text-align: left;
+                    }
+                    
+                    
+                    
+                    .form-cadastro-c{
+                    display: flex;
+                    flex-direction: column;
+                    flex-wrap: wrap;
+                    align-content: space-around;
+                    align-items: center;
+                    margin-top: 58px;
+                    }
+                    
+                    .btn-cadastro-c input{
+                    
+                      color: white;
+                      width: 90px;
+                      font-size: 13px;
+                      background-color: #3582ff;
+                      justify-content: center;
+                      align-items: center;
+                      margin-right: 50px;
+                      margin-top: 100px;
+                      padding: 5px;
+                      text-transform: uppercase;
+                      font-size: 10px;
+                      border-radius: 10px;
+                    
+                    }
+                    
+                    .btn-cadastro-c:hover input {
+                    background-color: #fff;
+                    color: #3683ff;
+                    -webkit-box-shadow: 2px 2px 5px 0px rgba(184, 184, 184, 1);
+                    -moz-box-shadow: 2px 2px 5px 0px rgba(184, 184, 184, 1);
+                    box-shadow: 2px 2px 5px 0px rgba(184, 184, 184, 1);
+                    }
+                    
+                    
+                    
