@@ -15,7 +15,7 @@ export default function Pacientes() {
     function Consultas() {
         api('/Consultas', {
             headers: {
-                'Authorization': 'Bearer ' + localStorage.getItem('token')
+                // 'Authorization': 'Bearer ' + localStorage.getItem('token')
             }
         })
             .then(response => {
@@ -63,15 +63,15 @@ export default function Pacientes() {
                                                     <ul className="separacao">
 
 
-                                                        <li>Paciente: {consulta.idPacienteNavigation.nomePaciente}</li>
-                                                        <li>Médico: {consulta.idMedicoNavigation.nomeMedico} </li>
-                                                        <li>Especialidade:{consulta.idMedicoNavigation.idEspecialidadeNavigation.nomeEspecialidade}</li>
+                                                        <li>Paciente: {consulta.PacienteNavegation[0].nomePaciente}</li>
+                                                        <li>Medico: {consulta.MedicoNavegation[0].nomeMedico} </li>
+                                                        {/* <li>Especialidade:{consulta.idMedicoNavigation.idEspecialidadeNavigation.nomeEspecialidade}</li> */}
                                                         <li>Data/Hora:{Intl.DateTimeFormat("pt-BR", {
                                                             year: 'numeric', month: 'numeric', day: 'numeric',
                                                             hour: 'numeric', minute: 'numeric', hour12: true
                                                         }).format(new Date(consulta.dataHora))}</li>
                                                         <li>Descrição:{consulta.descricao}</li>
-                                                        <li>Situação:{consulta.idSituacaoNavigation.tipoSituacao}</li>
+                                                        {/* <li>Situação:{consulta.idSituacaoNavigation.tipoSituacao}</li> */}
 
 
                                                     </ul>

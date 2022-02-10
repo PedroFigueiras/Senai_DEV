@@ -26,7 +26,7 @@ export default class cadastrar extends Component {
     
     PacienteLista = () => {
 
-        axios('http:///192.168.18.9:5000/api/Pacientes', {
+        axios('https://620549d2161670001741b775.mockapi.io/Paciente', {
             headers: {
                 Authorization: 'Bearer ' + localStorage.getItem('usuario-login'),
             },
@@ -75,7 +75,7 @@ export default class cadastrar extends Component {
             IdSituacao: 3
         };
 
-        axios.post('http:///192.168.18.9:5000/api/Consultas', consulta, {
+        axios.post('https://620549d2161670001741b775.mockapi.io/CONSULTA', consulta, {
             headers: {
                 Authorization: 'Bearer ' + localStorage.getItem('usuario-login'),
             },

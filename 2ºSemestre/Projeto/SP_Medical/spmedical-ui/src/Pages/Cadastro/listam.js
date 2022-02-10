@@ -17,9 +17,9 @@ export default function Medicos() {
     useEffect(Consultas, []);
 
     function Consultas() {
-        axios('http://192.168.18.9:5000/api/Consultas/medico', {
+        axios('https://620549d2161670001741b775.mockapi.io/MEDICO', {
             headers: {
-                'Authorization': 'Bearer ' + localStorage.getItem('usuario-login')
+                // 'Authorization': 'Bearer ' + localStorage.getItem('usuario-login')
             }
         })
             .then(response => {
@@ -74,8 +74,8 @@ export default function Medicos() {
                                                 <section>
                                                     <ul className="separacao">
 
-                                                        <li>- Médico: {consulta.idMedicoNavigation.nomeMedico} </li>
-                                                        <li>- Paciente: {consulta.idPacienteNavigation.nomePaciente}</li>
+                                                        <li>- Médico: {consulta.MedicoNavegation.nomeMedico} </li>
+                                                        <li>- Paciente: {consulta.PacienteNavigation.nomePaciente}</li>
 
                                                         <li>- Especialidade:{consulta.idMedicoNavigation.idEspecialidadeNavigation.nomeEspecialidade}</li>
                                                         <li>- Data/Hora:{Intl.DateTimeFormat("pt-BR", {
