@@ -4,7 +4,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
+// import App from './App';
 import cadastro from './Pages/Cadastro/cadastro';
 import reportWebVitals from './reportWebVitals';
 import listac from './Pages/Cadastro/listac';
@@ -20,7 +20,7 @@ const routing = (
   <Router>
     <div>
       <Switch>
-        <Route exact path="/" component={App}/>
+        <Route exact path="/" component={listac}/>
         <Route path="/cadastro" component={cadastro} />
         <Route path="/listarconsulta" component={listac} />
         <Route path="/listarmedicos" component={listam} />

@@ -75,9 +75,8 @@ export default function Pacientes() {
                                                 <section className="lista">
                                                     <ul className="separacao">
 
-
-                                                        <li>Paciente: {consulta.idPacienteNavigation[0].nomePaciente}</li>
-                                                        <li>Médico: {consulta.idMedicoNavigation[0].nomeMedico} </li>
+                                                        <li>Paciente: {consulta.idPacienteNavigation[0]}</li>
+                                                        <li>Médico: {consulta.idMedicoNavigation} </li>
                                                         {/* <li>Especialidade:{consulta.idMedicoNavigation.idEspecialidadeNavigation.nomeEspecialidade}</li> */}
                                                         <li>Data/Hora:{consulta.data_hora}</li>
                                                         <li>Descrição:{consulta.descricao}</li>

@@ -62,14 +62,11 @@ export default function Pacientes() {
                                                 <section className="lista">
                                                     <ul className="separacao">
 
-
+                                                        <li>Usuario: {consulta.UsuarioNavegation[0].tipoUsuario}</li>
                                                         <li>Paciente: {consulta.PacienteNavegation[0].nomePaciente}</li>
                                                         <li>Medico: {consulta.MedicoNavegation[0].nomeMedico} </li>
                                                         {/* <li>Especialidade:{consulta.idMedicoNavigation.idEspecialidadeNavigation.nomeEspecialidade}</li> */}
-                                                        <li>Data/Hora:{Intl.DateTimeFormat("pt-BR", {
-                                                            year: 'numeric', month: 'numeric', day: 'numeric',
-                                                            hour: 'numeric', minute: 'numeric', hour12: true
-                                                        }).format(new Date(consulta.dataHora))}</li>
+                                                        <li>Data/Hora:{consulta.data_hora}</li>
                                                         <li>Descrição:{consulta.descricao}</li>
                                                         {/* <li>Situação:{consulta.idSituacaoNavigation.tipoSituacao}</li> */}
 
