@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WZWUY/aLmL8E+OjHezq9RXFCDgGArIDEPUrd/M8wobnE0XE4MBMWb76xqiJ1BkdUYqSJSs0xwqHw6cPio7MNuw==",
+  "dgSpecHash": "tdyBZarcukl6VkjakwZdusfELCUMvoUq7VYWI2HDj0eBgmgPCO3PS1MFmaY6oLva1YooZRdbDhmJ2XN42yN0iw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\54667532890.INFOSCS\\Desktop\\3-SemestreSenai\\projetos\\2022_3T_ProjetoBase_Backend\\Patrimonio\\Patrimonio.csproj",
+  "projectFilePath": "C:\\Users\\54667532890.INFOSCS\\Desktop\\Senai_DEV\\3ºSemestre\\projetos\\2022_3T_ProjetoBase_Backend\\Patrimonio\\Patrimonio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\54667532890.INFOSCS\\.nuget\\packages\\bcrypt.net-next\\4.0.2\\bcrypt.net-next.4.0.2.nupkg.sha512",
     "C:\\Users\\54667532890.INFOSCS\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

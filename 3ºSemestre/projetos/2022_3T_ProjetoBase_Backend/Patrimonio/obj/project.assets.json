@@ -9127,11 +9127,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\54667532890.INFOSCS\\Desktop\\3-SemestreSenai\\projetos\\2022_3T_ProjetoBase_Backend\\Patrimonio\\Patrimonio.csproj",
+      "projectUniqueName": "C:\\Users\\54667532890.INFOSCS\\Desktop\\Senai_DEV\\3ºSemestre\\projetos\\2022_3T_ProjetoBase_Backend\\Patrimonio\\Patrimonio.csproj",
       "projectName": "Patrimonio",
-      "projectPath": "C:\\Users\\54667532890.INFOSCS\\Desktop\\3-SemestreSenai\\projetos\\2022_3T_ProjetoBase_Backend\\Patrimonio\\Patrimonio.csproj",
+      "projectPath": "C:\\Users\\54667532890.INFOSCS\\Desktop\\Senai_DEV\\3ºSemestre\\projetos\\2022_3T_ProjetoBase_Backend\\Patrimonio\\Patrimonio.csproj",
       "packagesPath": "C:\\Users\\54667532890.INFOSCS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\54667532890.INFOSCS\\Desktop\\3-SemestreSenai\\projetos\\2022_3T_ProjetoBase_Backend\\Patrimonio\\obj\\",
+      "outputPath": "C:\\Users\\54667532890.INFOSCS\\Desktop\\Senai_DEV\\3ºSemestre\\projetos\\2022_3T_ProjetoBase_Backend\\Patrimonio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\54667532890.INFOSCS\\AppData\\Roaming\\NuGet\\NuGet.Config",

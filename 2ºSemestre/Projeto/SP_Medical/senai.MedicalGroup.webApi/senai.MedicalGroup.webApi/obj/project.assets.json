@@ -7881,19 +7881,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\figue\\.nuget\\packages\\": {}
+    "C:\\Users\\54667532890.INFOSCS\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\figue\\OneDrive\\Área de Trabalho\\SPmedical\\senai.MedicalGroup.webApi\\senai.MedicalGroup.webApi\\senai.MedicalGroup.webApi.csproj",
+      "projectUniqueName": "C:\\Users\\54667532890.INFOSCS\\Desktop\\Senai_DEV\\2ºSemestre\\Projeto\\SP_Medical\\senai.MedicalGroup.webApi\\senai.MedicalGroup.webApi\\senai.MedicalGroup.webApi.csproj",
       "projectName": "senai.MedicalGroup.webApi",
-      "projectPath": "C:\\Users\\figue\\OneDrive\\Área de Trabalho\\SPmedical\\senai.MedicalGroup.webApi\\senai.MedicalGroup.webApi\\senai.MedicalGroup.webApi.csproj",
-      "packagesPath": "C:\\Users\\figue\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\figue\\OneDrive\\Área de Trabalho\\SPmedical\\senai.MedicalGroup.webApi\\senai.MedicalGroup.webApi\\obj\\",
+      "projectPath": "C:\\Users\\54667532890.INFOSCS\\Desktop\\Senai_DEV\\2ºSemestre\\Projeto\\SP_Medical\\senai.MedicalGroup.webApi\\senai.MedicalGroup.webApi\\senai.MedicalGroup.webApi.csproj",
+      "packagesPath": "C:\\Users\\54667532890.INFOSCS\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\54667532890.INFOSCS\\Desktop\\Senai_DEV\\2ºSemestre\\Projeto\\SP_Medical\\senai.MedicalGroup.webApi\\senai.MedicalGroup.webApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\figue\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\54667532890.INFOSCS\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -7972,7 +7972,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }
